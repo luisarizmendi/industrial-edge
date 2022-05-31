@@ -210,6 +210,7 @@ clusterGroup:
 #    repoURL: https://github.com/vendor/applications.git
 #    targetRevision: main
 
+
   managedClusterGroups:
     factory:
       name: factory
