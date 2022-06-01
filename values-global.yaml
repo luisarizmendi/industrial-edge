@@ -18,7 +18,7 @@ global:
     hostname: github.com
     account: luisarizmendi
     username: luisarizmendi
-    email: luisarizmendi@redhat.com
+    email: luis.ariz@gmail.com
     dev_revision: main
 
   s3:
